@@ -118,7 +118,7 @@ function HomeContent() {
 
       {/* Footer */}
       <footer className="absolute bottom-6 text-xs text-themed-faint">
-        Built with Nicheify
+        Built for fun :)
       </footer>
     </main>
   );
